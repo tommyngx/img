@@ -15,6 +15,7 @@
   },
   "diagnostic_labels": {
     "phenotype": "Global Atrophy",
+    "kl_score": 3,
     "medial_osteophyte": "none",
     "lateral_osteophyte": "none",
     "medial_jsn": "mild",

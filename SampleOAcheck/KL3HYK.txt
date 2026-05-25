@@ -15,6 +15,7 @@
   },
   "diagnostic_labels": {
     "phenotype": "Hypertronic Knee",
+    "kl_score": 3,
     "medial_osteophyte": "moderate",
     "lateral_osteophyte": "moderate",
     "medial_jsn": "severe",

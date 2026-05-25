@@ -15,6 +15,7 @@
   },
   "diagnostic_labels": {
     "phenotype": "Knee Shape & Atrophy",
+    "kl_score": 2,
     "medial_osteophyte": "moderate",
     "lateral_osteophyte": "mild",
     "medial_jsn": "moderate",
