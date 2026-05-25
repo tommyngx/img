@@ -16,7 +16,7 @@
   "diagnostic_labels": {
     "phenotype": "Increased Cartilage",
     "kl_score": 3,
-    "medial_osteophyte": "moderate",
+    "medial_osteophyte": "severe",
     "lateral_osteophyte": "none",
     "medial_jsn": "severe",
     "lateral_jsn": "moderate",
