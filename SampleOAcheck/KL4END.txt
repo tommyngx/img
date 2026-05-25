@@ -16,10 +16,10 @@
   "diagnostic_labels": {
     "phenotype": "End-Stage Knee",
     "kl_score": 4,
-    "medial_osteophyte": "moderate",
-    "lateral_osteophyte": "moderate",
-    "medial_jsn": "moderate",
-    "lateral_jsn": "mild",
+    "medial_osteophyte": "severe",
+    "lateral_osteophyte": "severe",
+    "medial_jsn": "severe",
+    "lateral_jsn": "moderate",
     "sclerosis": "Present"
   },
   "points": [
