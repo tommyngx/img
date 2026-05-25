@@ -20,7 +20,7 @@
     "lateral_osteophyte": "moderate",
     "medial_jsn": "moderate",
     "lateral_jsn": "mild",
-    "sclerosis": "None"
+    "sclerosis": "Present"
   },
   "points": [
     {
