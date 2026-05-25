@@ -14,6 +14,7 @@
     "bmi_group": "obese"
   },
   "diagnostic_labels": {
+    "phenotype": "Global Atrophy",
     "medial_osteophyte": "none",
     "lateral_osteophyte": "none",
     "medial_jsn": "mild",

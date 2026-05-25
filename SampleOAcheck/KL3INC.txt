@@ -14,6 +14,7 @@
     "bmi_group": "normal"
   },
   "diagnostic_labels": {
+    "phenotype": "Increased Cartilage",
     "medial_osteophyte": "moderate",
     "lateral_osteophyte": "none",
     "medial_jsn": "severe",
