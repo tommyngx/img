@@ -18,8 +18,8 @@
     "kl_score": 3,
     "medial_osteophyte": "none",
     "lateral_osteophyte": "none",
-    "medial_jsn": "mild",
-    "lateral_jsn": "severe",
+    "medial_jsn": "moderate",
+    "lateral_jsn": "mild",
     "sclerosis": "None"
   },
   "points": [
