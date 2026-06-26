@@ -14,7 +14,7 @@
     "bmi_group": "obese"
   },
   "diagnostic_labels": {
-    "phenotype": "Hypertronic Knee",
+    "phenotype": "Hypertrophic Knee",
     "kl_score": 3,
     "medial_osteophyte": "moderate",
     "lateral_osteophyte": "severe",
